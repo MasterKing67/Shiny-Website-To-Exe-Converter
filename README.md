@@ -54,7 +54,7 @@ The app features a modern dual‑tab layout:
 
 ## 📜 License
 This project is licensed under the **MIT License** — see the [LICENSE] file for details.  
-You may freely use, modify, and distribute this project under the terms of Apache 2.0, provided attribution is maintained.
+You may freely use, modify, and distribute this project under the terms of MIT, provided attribution is maintained.
 
 ---
 
