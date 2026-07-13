@@ -1,4 +1,6 @@
-<img width="1024" height="1024" alt="Copilot_20260713_040333" src="https://github.com/user-attachments/assets/17bc3ef9-32d4-4089-96b7-fdae4828f477" />
+<img width="1024" height="1024" alt="Copilot_20260713_040333" src="https://github.com/user-attachments/assets/09e260db-22f1-4f7c-9c3f-5dc2d7177ba6" />
+
+
 # Shiny Website To Exe Converter
 
 **Convert websites into EXE apps**  
