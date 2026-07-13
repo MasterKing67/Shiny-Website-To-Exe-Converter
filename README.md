@@ -19,3 +19,25 @@ graph TD
 
     I --> I1[app.png]
 ```
+
+## ⚙️ How It Works
+
+```mermaid
+flowchart LR
+    A[Launch Application] --> B[Choose Source]
+
+    B --> C[Online Website]
+    B --> D[Local Website]
+
+    C --> E[Enter URL]
+    D --> F[Select HTML Folder]
+
+    E --> G[Enter App Name]
+    F --> G
+
+    G --> H[Choose Output Folder]
+
+    H --> I[Generate EXE]
+
+    I --> J[Finished]
+```
