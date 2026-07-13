@@ -34,7 +34,7 @@ The app features a modern dual‑tab layout:
 ---
 
 ## 📦 Installation
-1. Download the latest **Stable release** from the [Releases](https://github.com/MasterKing67/ShinyWebsiteToExeConverter/releases) page.  
+1. Download the latest **Stable release** from the [Releases](https://github.com/MasterKing67/Shiny-Website-To-Exe-Converter/releases/) page.  
 2. Run `WebsiteToExeInstaller.exe`.  
 3. Follow the guided setup to install the converter.
 
